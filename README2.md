@@ -41,10 +41,23 @@ Quality Engineering specialist with 7+ years in manual and automation testing ac
 
 > I’m gradually adding real-world demos of my QA work.
 
+<details>
+<summary>What I'm learning next</summary>
+
+- Playwright
+- Performance testing
+- Advanced API mocking
+- Deeper AI-assisted testing
+
+</details>
+
 ---
 
 ### 📊 GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide=issues&theme=default)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 
 ---
 
